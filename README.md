@@ -6,7 +6,7 @@ I chose Python as my language because it has been three years since I last used 
 
 Anna will greet you by name, adjust her greeting based on the time of day, and share a piece of plant wisdom that rotates by day of the week. She also has something to say on her way out.
 
-[Software Demo Video](https://www.youtube.com/watch?v=fZIwpkPnCbc)
+[My Plant Greeter - Hello World](https://www.youtube.com/watch?v=fZIwpkPnCbc)
 
 # Development Environment
 
